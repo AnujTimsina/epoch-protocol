@@ -1,0 +1,354 @@
+{
+  "1": {
+    "Uniswap": [
+      {
+        "tokenOne": {
+          "name": "USD//C",
+          "decimals": 6,
+          "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+          "ticker": "USDC"
+        },
+        "tokenTwo": {
+          "name": "Wrapped Ether",
+          "decimals": 18,
+          "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+          "ticker": "WETH"
+        }
+      },
+      {
+        "tokenOne": {
+          "name": "Paxos Standard",
+          "decimals": 18,
+          "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x8E870D67F660D95d5be530380D0eC0bd388289E1/logo.png",
+          "ticker": "PAX"
+        },
+        "tokenTwo": {
+          "name": "USD//C",
+          "decimals": 6,
+          "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+          "ticker": "USDC"
+        }
+      },
+      {
+        "tokenOne": {
+          "name": "Chai",
+          "decimals": 18,
+          "address": "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x06AF07097C9Eeb7fD685c692751D5C66dB49c215/logo.png",
+          "ticker": "CHAI"
+        },
+        "tokenTwo": {
+          "name": "Wrapped Ether",
+          "decimals": 18,
+          "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+          "ticker": "WETH"
+        }
+      },
+      {
+        "tokenOne": {
+          "name": "Dai Stablecoin",
+          "decimals": 18,
+          "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+          "ticker": "DAI"
+        },
+        "tokenTwo": {
+          "name": "Wrapped Ether",
+          "decimals": 18,
+          "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+          "ticker": "WETH"
+        }
+      },
+      {
+        "tokenTwo": {
+          "name": "Dai Stablecoin",
+          "decimals": 18,
+          "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+          "ticker": "DAI"
+        },
+        "tokenOne": {
+          "name": "Wrapped Ether",
+          "decimals": 18,
+          "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+          "ticker": "WETH"
+        }
+      },
+      {
+        "tokenOne": {
+          "name": "Republic Token",
+          "decimals": 18,
+          "address": "0x408e41876cCCDC0F92210600ef50372656052a38",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x408e41876cCCDC0F92210600ef50372656052a38/logo.png",
+          "ticker": "REN"
+        },
+        "tokenTwo": {
+          "name": "USD//C",
+          "decimals": 6,
+          "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+          "ticker": "USDC"
+        }
+      },
+      {
+        "tokenOne": {
+          "name": "Dai Stablecoin",
+          "decimals": 18,
+          "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+          "ticker": "DAI"
+        },
+        "tokenTwo": {
+          "name": "USD//C",
+          "decimals": 6,
+          "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+          "ticker": "USDC"
+        }
+      },
+      {
+        "tokenOne": {
+          "name": "Bancor Network Token",
+          "decimals": 18,
+          "address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C/logo.png",
+          "ticker": "BNT"
+        },
+        "tokenTwo": {
+          "name": "Dai Stablecoin",
+          "decimals": 18,
+          "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+          "ticker": "DAI"
+        }
+      },
+      {
+        "tokenOne": {
+          "name": "Basic Attention Token",
+          "decimals": 18,
+          "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x0D8775F648430679A709E98d2b0Cb6250d2887EF/logo.png",
+          "ticker": "BAT"
+        },
+        "tokenTwo": {
+          "name": "Wrapped Ether",
+          "decimals": 18,
+          "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+          "ticker": "WETH"
+        }
+      }
+    ],
+    "SushiSwap": [
+      {
+        "tokenOne": {
+          "name": "SushiToken",
+          "decimals": 18,
+          "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png",
+          "ticker": "SUSHI"
+        },
+        "tokenTwo": {
+          "name": "Tether USD",
+          "decimals": 6,
+          "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+          "ticker": "USDT"
+        }
+      },
+      {
+        "tokenOne": {
+          "name": "Wrapped Ether",
+          "decimals": 18,
+          "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+          "ticker": "WETH"
+        },
+        "tokenTwo": {
+          "name": "Curve DAO Token",
+          "decimals": 18,
+          "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
+          "ticker": "CRV"
+        }
+      },
+      {
+        "tokenOne": {
+          "name": "Wrapped Ether",
+          "decimals": 18,
+          "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+          "ticker": "WETH"
+        },
+        "tokenTwo": {
+          "name": "Ampleforth",
+          "decimals": 9,
+          "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xD46bA6D942050d489DBd938a2C909A5d5039A161/logo.png",
+          "ticker": "AMPL"
+        }
+      }
+    ]
+  },
+  "137": {
+    "SushiSwap": [
+      {
+        "tokenOne": {
+          "name": "Wrapped Matic",
+          "decimals": 18,
+          "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png",
+          "ticker": "WMATIC"
+        },
+        "tokenTwo": {
+          "name": "Wrapped Ether",
+          "decimals": 18,
+          "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png",
+          "ticker": "WETH"
+        }
+      },
+      {
+        "tokenOne": {
+          "name": "Wrapped Matic",
+          "decimals": 18,
+          "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png",
+          "ticker": "WMATIC"
+        },
+        "tokenTwo": {
+          "name": "(PoS) Dai Stablecoin",
+          "decimals": 18,
+          "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.png",
+          "ticker": "DAI"
+        }
+      },
+      {
+        "tokenOne": {
+          "name": "Wrapped Matic",
+          "decimals": 18,
+          "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png",
+          "ticker": "WMATIC"
+        },
+        "tokenTwo": {
+          "name": "Aavegotchi GHST Token (PoS)",
+          "decimals": 18,
+          "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7/logo.png",
+          "ticker": "GHST"
+        }
+      },
+      {
+        "tokenOne": {
+          "name": "Wrapped Matic",
+          "decimals": 18,
+          "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png",
+          "ticker": "WMATIC"
+        },
+        "tokenTwo": {
+          "name": "ChainLink Token",
+          "decimals": 18,
+          "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39/logo.png",
+          "ticker": "LINK"
+        }
+      },
+      {
+        "tokenOne": {
+          "name": "Wrapped Matic",
+          "decimals": 18,
+          "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png",
+          "ticker": "WMATIC"
+        },
+        "tokenTwo": {
+          "name": "(PoS) yearn.finance",
+          "decimals": 18,
+          "address": "0xDA537104D6A5edd53c6fBba9A898708E465260b6",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0xDA537104D6A5edd53c6fBba9A898708E465260b6/logo.png",
+          "ticker": "YFI"
+        }
+      }
+    ],
+    "QuickSwap": [
+      {
+        "tokenOne": {
+          "name": "USD Coin (PoS)",
+          "decimals": 6,
+          "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png",
+          "ticker": "USDC"
+        },
+        "tokenTwo": {
+          "name": "Wrapped Ether",
+          "decimals": 18,
+          "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png",
+          "ticker": "WETH"
+        }
+      },
+      {
+        "tokenOne": {
+          "name": "Wrapped Ether",
+          "decimals": 18,
+          "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png",
+          "ticker": "WETH"
+        },
+        "tokenTwo": {
+          "name": "(PoS) Dai Stablecoin",
+          "decimals": 18,
+          "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.png",
+          "ticker": "DAI"
+        }
+      },
+      {
+        "tokenOne": {
+          "name": "Wrapped Matic",
+          "decimals": 18,
+          "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png",
+          "ticker": "WMATIC"
+        },
+        "tokenTwo": {
+          "name": "(PoS) Tether USD",
+          "decimals": 6,
+          "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+          "img": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png",
+          "ticker": "USDT"
+        }
+      }
+    ]
+  },
+  "80001": {
+    "Uniswap": [
+      {
+        "tokenOne": {
+          "ticker": "TOKEN1",
+          "img": "https://cdn.moralis.io/eth/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png",
+          "name": "Wrapped Matic",
+          "address": "0x135C30ba05C8Ff1DDe4AE69Cb4Ee3631855F7e5e",
+          "decimals": 18
+        },
+        "tokenTwo": {
+          "ticker": "TOKEN2",
+          "img": "https://cdn.moralis.io/eth/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+          "name": "Tether USD",
+          "address": "0x4b1Ee0803EAf7351B4a7ae4D542e66fE4A04Fe7A",
+          "decimals": 18
+        }
+      }
+    ]
+  }
+}
