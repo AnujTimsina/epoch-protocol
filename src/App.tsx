@@ -10,10 +10,24 @@ function App() {
 
   const [chain, setchain] = useState<keyof typeof Test>();
   const [dex, setDex] = useState<string[]>();
+  const [selectedDex, setSelectedDex] = useState<string>();
   const [tickerPairOption, setTickerPairOption] = useState<string[]>();
   const [selectedTicker, setSelectedTicker] = useState<string>();
   const chainIDs = Object.keys(Test);
-  const changeHandler = (e: any) => {
+
+  const chainChangeHandler = (e: any) => {
+    if (selectedDex) {
+      setSelectedDex("");
+    }
+
+    if (tickerPairOption?.length) {
+      setTickerPairOption(undefined);
+    }
+
+    if (selectedTicker) {
+      setSelectedTicker("");
+    }
+
     const selectedChain = e.target.value as keyof typeof Test;
     setchain(e.target.value);
 
@@ -30,6 +44,8 @@ function App() {
     // keyof TestValues;
     if (!chain) return;
 
+    setSelectedDex(selectedDex);
+
     const tokenArray = (Test[chain] as any)[selectedDex];
 
     const tokenArrayTicker = tokenArray?.map(
@@ -44,22 +60,25 @@ function App() {
         return tickerArray.join("-");
       }
     );
-    setTickerPairOption(tokenArrayTicker);
-    console.log("token array: ", tokenArrayTicker);
-  };
-  // const swaps = test.map(())
 
-  console.log(dex, "chain");
+    setSelectedTicker("");
+    setTickerPairOption(tokenArrayTicker);
+  };
 
   return (
     <div>
       <select
-        defaultValue={"1"}
+        defaultValue={""}
         value={chain}
         name="cars"
         id="cars"
-        onChange={changeHandler}
+        onChange={chainChangeHandler}
+        // disabled
       >
+        <option value="" disabled>
+          Select a chain
+        </option>
+
         {chainIDs.map((item, id) => (
           <option value={item} key={id}>
             {`ChainID: ${item}`}{" "}
@@ -68,7 +87,16 @@ function App() {
       </select>
 
       {dex ? (
-        <select id="swaaps" onChange={dexChangeHandler}>
+        <select
+          defaultValue={""}
+          value={selectedDex}
+          // id="swaaps"
+          onChange={dexChangeHandler}
+        >
+          <option value="" disabled>
+            Select a chain
+          </option>
+
           {dex?.map((item, id) => (
             <option value={item} key={id}>
               {item}
@@ -80,9 +108,15 @@ function App() {
       {tickerPairOption ? (
         <select
           id="pairDetail"
+          defaultValue={""}
           value={selectedTicker}
+          // defaultValue={undefined}
           onChange={changeTickerPair}
         >
+          <option value="" disabled>
+            Select a chain
+          </option>
+
           {tickerPairOption?.map((item, id) => (
             <option value={item} key={id}>
               {item}
